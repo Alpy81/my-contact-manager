@@ -1,14 +1,14 @@
 [
     {
-        "name": "Hans",
+        "name": "Maria",
         "phone": "123132132132"
     },
     {
-        "name": "Frederick",
+        "name": "Victoria",
         "phone": "1111111111"
     },
     {
-        "name": "Petra M\u00fcller",
+        "name": "Alptug",
         "phone": "01572312123"
     }
 ]

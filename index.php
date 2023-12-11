@@ -17,7 +17,7 @@
         <h1>My Contact Book</h1>
 
         <div class="myname">
-            <div class="avatar">J</div>Junus Ergin
+            <div class="avatar">A</div>Alperen Ertas
         </div>
     </div>
     <div class="main">
@@ -130,7 +130,7 @@
     </div>
 
     <div class="footer">
-        (C) 2021 Developer Akademie GmbH
+        (C) 2023 My PHP Lesson
     </div>
 </body>
 
